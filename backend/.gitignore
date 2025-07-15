@@ -1,0 +1,25 @@
+.env
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Environments & Secrets
+.env
+venv/
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Django files
+db.sqlite3
+media/
+static/
+
+# Mac/Linux/Windows junk
+.DS_Store
+Thumbs.db
